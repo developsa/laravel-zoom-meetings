@@ -23,7 +23,7 @@ Ayrıca, kullanıcılar "Şifremi Unuttum" seçeneği ile e-posta adreslerine ye
 
 1. **Repo'yu Klonlayın**
    ```bash
-   git clone https://github.com/kullanici_adiniz/proje_adi.git
+   git clone https://github.com/developsa/laravel-zoom-meetings.git
 2. **Proje Klasörüne Geçin**
    ```bash
    cd ZOOM-PROJECT
